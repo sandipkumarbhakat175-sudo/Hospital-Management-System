@@ -1,3 +1,13 @@
+candidate Name- Sandip kumar bhakat
+selected for- Full stack web Development
+Organization- Codtech IT solutions private limited
+Duration- 25 May 2026-22 June 2026
+Intern ID- CITS1602
+
+
+# PROJECT NAME- HOSPITAL MANAGEMENT SYSTEM
+
+# PROJECT DETAIL-
 A professional front-end simulation of a Hospital Management System built using HTML, CSS, and JavaScript. This project demonstrates how hospitals can manage patients, doctors, appointments, and billing in a clean, responsive web interface.
 
 ✨ Features
@@ -22,3 +32,22 @@ CSS3 – styling, responsive design
 
 JavaScript (ES6) – interactivity and dynamic updates
 i use one  html file include javascript and css
+
+
+#PROJECT SCOPE-
+
+
+
+1. Provide a centralized platform accessible to patients, doctors, and staff.
+
+2. Ensure secure storage of medical records with role-based access.
+
+3. Enable real-time updates for appointments and billing.
+
+4. Improve efficiency by reducing paperwork and manual errors.
+
+5. Support scalability for multi-department hospitals.
+
+
+# SCREENSHOTS-
+
