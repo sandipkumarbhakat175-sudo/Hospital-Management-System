@@ -1,7 +1,11 @@
-candidate Name- Sandip kumar bhakat
-selected for- Full stack web Development
+Candidate Name- Sandip kumar bhakat
+
+Selected for- Full stack web Development
+
 Organization- Codtech IT solutions private limited
+
 Duration- 25 May 2026-22 June 2026
+
 Intern ID- CITS1602
 
 
