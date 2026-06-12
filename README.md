@@ -21,3 +21,4 @@ HTML5 – structure
 CSS3 – styling, responsive design
 
 JavaScript (ES6) – interactivity and dynamic updates
+i use one  html file include javascript and css
