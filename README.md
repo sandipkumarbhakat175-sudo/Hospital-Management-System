@@ -50,4 +50,4 @@ i use one  html file include javascript and css
 
 
 # SCREENSHOTS-
-
+![image alt](lhttps://github.com/sandipkumarbhakat175-sudo/Hospital-Management-System/blob/24773065cc0023b3235c6b21b88f5f8ed3a6bb4e/Screenshot%202026-06-12%20183845.png)
