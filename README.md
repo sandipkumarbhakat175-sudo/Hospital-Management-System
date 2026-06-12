@@ -51,3 +51,4 @@ i use one  html file include javascript and css
 
 # SCREENSHOTS-
 ![image alt](lhttps://github.com/sandipkumarbhakat175-sudo/Hospital-Management-System/blob/24773065cc0023b3235c6b21b88f5f8ed3a6bb4e/Screenshot%202026-06-12%20183845.png)
+![image_alt](https://github.com/sandipkumarbhakat175-sudo/Hospital-Management-System/blob/ed592ee7d07dd8a1b8e667b7a18b63f21160423a/Screenshot%202026-06-12%20183906.png)
